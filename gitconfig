@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = chunhuilin7516@gmail.com
+	name = Claire LIN
